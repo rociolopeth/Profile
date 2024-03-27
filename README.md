@@ -8,4 +8,6 @@
 - 🤖 I'm keen on using data science as a bridge to connect various scientific disciplines.
 - 🤝 I'm open to collaborating on projects that aim to innovate and make a positive impact.
 - 📫 Reach out to me at [yrociro@gmail.com](mailto:yrociro@gmail.com) to chat about science, coding, or anything in between!
+- 🐦 Follow me on [Twitter](https://twitter.com/rociolopz_3) for regular updates on my work and interests.
+
 
