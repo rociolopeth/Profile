@@ -1,5 +1,5 @@
 # Hi there 👋, welcome to Rocío's Profile
-**Biological & Earth Systems Analyst **
+**Biological & Earth Systems Analyst**
 
 💻 **Experienced in data science, geospatial analysis , Python programming, and reproducible scientific workflows**, combining computational methods with biological and Earth system knowledge.
 
